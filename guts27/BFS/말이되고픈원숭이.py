@@ -32,3 +32,4 @@ def bfs(x,y,k):
     return -1
         
 print(bfs(0,0,k))
+
