@@ -7,7 +7,7 @@ def floyd():
                     continue
 
                 if graph[i][j] == graph[i][k] + graph[k][i]:
-                    graph[i][j] = 0
+                    result[i][j] = 0
                   
                 elif graph[i][j] > graph[i][k]+graph[k][j]:
                     return False
@@ -15,11 +15,12 @@ def floyd():
     res = 0
     for i in range(n):
         for j in range(n):
-            if graph[i][j] > 0:
+            if result[i][j] > 0:
                 res += graph[i][j]
 
     return res
 n = int(input())
+result = [[1]*(n) for _ in range(n)]
 graph = [list(map(int, input().split())) for _ in range(n)]
 
 result = floyd()
