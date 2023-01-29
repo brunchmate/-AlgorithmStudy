@@ -55,6 +55,50 @@
     <td>2023.01.27</td>
     <td><a href="https://www.acmicpc.net/problem/1507">BOJ 1507</a>, <a href="https://www.acmicpc.net/problem/1865">BOJ 1865</a></td>
   </tr>
+  <tr align="center">
+    <td rowspan="2">2023.01.30</td>
+    <td><a href="https://www.acmicpc.net/problem/2504">BOJ 2504</a>, <a href="https://www.acmicpc.net/problem/10866">BOJ 10866</a></td>
+    <td rowspan="2"><code>Data Structure</code></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.acmicpc.net/problem/7662">BOJ 7662</a>, <a href="https://www.acmicpc.net/problem/14425">BOJ 14425</a></td>
+  </tr>
+  <tr align="center">
+    <td rowspan="2">2023.01.31</td>
+    <td><a href="https://www.acmicpc.net/problem/3079">BOJ 3079</a>, <a href="https://www.acmicpc.net/problem/22871">BOJ 22871</a></td>
+    <td><code>Binary Search</code></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.acmicpc.net/problem/2470">BOJ 2470</a>, <a href="https://www.acmicpc.net/problem/21921">BOJ 21921</a></td>
+    <td><code>Two Pointer</code></td>
+  </tr>
+  <tr align="center">
+    <td rowspan="2">2023.02.01</td>
+    <td><a href="https://www.acmicpc.net/problem/1931">BOJ 1931</a>, <a href="https://www.acmicpc.net/problem/20115">BOJ 20115</a></td>
+    <td><code>Greedy</code></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.acmicpc.net/problem/1074">BOJ 1074</a>, <a href="https://www.acmicpc.net/problem/2630">BOJ 2630</a></td>
+    <td><code>Divide and Conquer</code></td>
+  </tr>
+  <tr align="center">
+    <td rowspan="2">2023.02.02</td>
+    <td><a href="https://www.acmicpc.net/problem/4358">BOJ 4358</a>, <a href="https://www.acmicpc.net/problem/14425">BOJ 14425</a></td>
+    <td><code>Trie</code></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.acmicpc.net/problem/20438">BOJ 20438</a>, <a href="https://www.acmicpc.net/problem/21318">BOJ 21318</a></td>
+    <td><code>Prefix Sum</code></td>
+  </tr>
+  <tr align="center">
+    <td rowspan="2">2023.02.03</td>
+    <td><a href="https://www.acmicpc.net/problem/1976">BOJ 1976</a>, <a href="https://www.acmicpc.net/problem/16562">BOJ 16562</a></td>
+    <td><code>Union-Find</code></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.acmicpc.net/problem/2252">BOJ 2252</a>, <a href="https://www.acmicpc.net/problem/14567">BOJ 14567</a></td>
+    <td><code>Topological Sort</code></td>
+  </tr>
 </tbody>
 </table>
 
