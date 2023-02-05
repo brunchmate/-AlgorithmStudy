@@ -160,6 +160,39 @@
     </td>
     <td><code>Topological Sort</code></td>
   </tr>
+  <tr align="center">
+  <td>2023.02.06</td>
+  <td>
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64061">크레인 인형뽑기 게임</a><br> 
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64065">튜플</a><br> 
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064">불량 사용자</a><br> 
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">징검다리 건너기</a><br> 
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64063">호텔 방 배정</a>
+  </td>
+  <td><code>2019 카카오 개발자 겨울 인턴십</code></td>
+  </tr>
+  <tr align="center">
+  <td>2023.02.08</td>
+  <td>
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67256">키패드 누르기</a><br> 
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67257">수식 최대화</a><br> 
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67258">보석 쇼핑</a><br> 
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67259">경주로 건설</a><br> 
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67260">동굴 탐험</a>
+  </td>
+  <td><code>2020 카카오 인턴십</code></td>
+  </tr>
+  <tr align="center">
+  <td>2023.02.10</td>
+  <td>
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a><br> 
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81302">거리두기 확인하기</a><br> 
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81303">표 편집</a><br> 
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81304">미로 탈출</a><br> 
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81305">시험장 나누기</a>
+  </td>
+  <td><code>2021 카카오 채용연계형 인턴십</code></td>
+  </tr>
 </tbody>
 </table>
 
