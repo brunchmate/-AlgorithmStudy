@@ -32,3 +32,29 @@ def solution(k, room_number):
             parent[rn] = rn + 1
             answer.append(rn)
     return answer
+
+
+# union-find 개선
+import sys
+from collections import defaultdict
+
+sys.setrecursionlimit(10 ** 9)
+
+
+def solution(k, room_number):
+    def find(x):
+        if parent[x]:
+            parent[x] = find(parent[x])
+            return parent[x]
+        else:
+            parent[x] = x + 1
+            return x
+
+    parent = defaultdict(int)
+    answer = []
+    for rn in room_number:
+        answer.append(find(rn))
+    return answer
+
+
+# linked-list로도 가능
