@@ -30,3 +30,31 @@ def solution(stones, k):
     #         else:
     #             jump = 0        
     #     # 처음에 시간 초과가 나서 수정함
+    
+'''
+문제해결 포인트  : 이진탐색
+def solution(stones, k):
+    answer = 0
+    left = 1
+    right = max(stones)
+    
+    while left <= right:
+        count = 0
+        mid = (left+right) // 2
+        for s in stones:
+            if s - mid <= 0:
+                count += 1
+            else:
+                count = 0
+            
+            if count == k:
+                break
+        
+        if count < k:
+            left = mid +1
+        else:
+            right = mid -1
+            answer = mid
+        
+    return answer
+'''
