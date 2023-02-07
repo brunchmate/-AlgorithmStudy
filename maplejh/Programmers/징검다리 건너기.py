@@ -1,6 +1,7 @@
 # https://school.programmers.co.kr/learn/courses/30/lessons/64062
 import heapq
 
+
 # 슬라이딩 윈도우
 def solution(stones, k):
     answer = max(stones[:k])
@@ -17,3 +18,6 @@ def solution(stones, k):
             start += 1
             answer = min(-q[0][0], answer)
     return answer
+
+
+# 이분 탐색으로도 가능

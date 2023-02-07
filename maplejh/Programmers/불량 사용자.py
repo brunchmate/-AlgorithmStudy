@@ -1,4 +1,6 @@
 # https://school.programmers.co.kr/learn/courses/30/lessons/64064
+
+# trie 알고리즘
 def solution(user_id, banned_id):
     def search(tree, depth, string):
         if depth == len(bid):
@@ -37,3 +39,6 @@ def solution(user_id, banned_id):
         candidate.append(tmp)
     match(0)
     return len(answer)
+
+
+# permutation으로도 가능
