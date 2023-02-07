@@ -5,6 +5,8 @@ def solution(s):
     start = 0
     end = 0
     for i in range(len(s)):
+        # S = S[2:-2].split("},{")
+		#list(map(int, s.replace("{", "").replace("}", "").split(",")))
         if s[i] == '{':
             start = i
             continue
