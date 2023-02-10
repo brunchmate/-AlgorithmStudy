@@ -2,7 +2,7 @@
 from collections import deque
 
 
-# bfs
+# bfs -> visitied 배열에서 어떤 방향으로 들어오는게 최소일지 모르니까 각각의 값으로 갱신
 def solution(board):
     n = len(board)
     d = [(-1, 0), (0, 1), (1, 0), (0, -1)]
