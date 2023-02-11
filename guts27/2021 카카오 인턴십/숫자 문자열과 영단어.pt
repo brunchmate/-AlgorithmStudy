@@ -1,0 +1,20 @@
+def solution(s):
+    answer = ''
+    index = 0
+    flag = 0
+    number = {'zero':'0', 'one':'1','two':'2', 'three':'3','four':'4','five':'5','six':'6','seven':'7','eight':'8','nine':'9'}
+    for i in range(len(s)):
+        #isdiigt() 뒤에 ()안붙임
+        if s[i].isdigit():
+            answer+= s[i]
+        else:
+            #0부터 시작할경우 플래그를 만들어줌 
+            if index == 0 and flag == 0:
+                index = i
+                flag = 1
+            else:
+                if number.get(s[index:i+1]):
+                    answer+=number.get(s[index:i+1])
+                    index = 0
+                    flag = 0
+    return int(answer)
