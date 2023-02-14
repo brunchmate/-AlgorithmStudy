@@ -215,13 +215,13 @@
     <td>2023.02.14</td>
   </tr>
   <tr align="center">
-    <td>2023.02.14</td>
+    <td>2023.02.15</td>
   </tr>
   <tr align="center">
-    <td>2023.02.14</td>
+    <td>2023.02.16</td>
   </tr>
   <tr align="center">
-    <td>2023.02.14</td>
+    <td>2023.02.17</td>
     <td>
       <a href="https://school.programmers.co.kr/learn/courses/30/lessons/62048">멀쩡한 사각형</a><br>
       <a href="https://school.programmers.co.kr/learn/courses/30/lessons/62050">지형 이동</a><br>
