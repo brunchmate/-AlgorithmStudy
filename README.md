@@ -162,36 +162,72 @@
   </tr>
   <tr align="center">
   <td>2023.02.06</td>
-  <td>
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64061">크레인 인형뽑기 게임</a><br> 
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64065">튜플</a><br> 
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064">불량 사용자</a><br> 
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">징검다리 건너기</a><br> 
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64063">호텔 방 배정</a>
-  </td>
-  <td><code>2019 카카오 개발자 겨울 인턴십</code></td>
+    <td>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64061">크레인 인형뽑기 게임</a><br> 
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64065">튜플</a><br> 
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064">불량 사용자</a><br> 
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">징검다리 건너기</a><br> 
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64063">호텔 방 배정</a>
+    </td>
+    <td><code>2019 카카오 개발자 겨울 인턴십</code></td>
   </tr>
   <tr align="center">
-  <td>2023.02.08</td>
-  <td>
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67256">키패드 누르기</a><br> 
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67257">수식 최대화</a><br> 
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67258">보석 쇼핑</a><br> 
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67259">경주로 건설</a><br> 
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67260">동굴 탐험</a>
-  </td>
-  <td><code>2020 카카오 인턴십</code></td>
+    <td>2023.02.08</td>
+    <td>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67256">키패드 누르기</a><br> 
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67257">수식 최대화</a><br> 
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67258">보석 쇼핑</a><br> 
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67259">경주로 건설</a><br> 
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67260">동굴 탐험</a>
+    </td>
+    <td><code>2020 카카오 인턴십</code></td>
   </tr>
   <tr align="center">
-  <td>2023.02.10</td>
-  <td>
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a><br> 
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81302">거리두기 확인하기</a><br> 
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81303">표 편집</a><br> 
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81304">미로 탈출</a><br> 
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81305">시험장 나누기</a>
-  </td>
-  <td><code>2021 카카오 채용연계형 인턴십</code></td>
+    <td>2023.02.10</td>
+    <td>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a><br> 
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81302">거리두기 확인하기</a><br> 
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81303">표 편집</a><br> 
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81304">미로 탈출</a><br> 
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81305">시험장 나누기</a>
+    </td>
+    <td><code>2021 카카오 채용연계형 인턴십</code></td>
+  </tr>
+    <tr align="center">
+    <td>2023.02.13</td>
+    <td rowspan="4">
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12971">스티커 모으기(2)</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12977">소수 만들기</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12978">배달</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12979">기지국 설치</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12980">점프와 순간 이동</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12981">영어 끝말잇기</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12982">예산</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12984">지형 편집</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12987">숫자 게임</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49993">스킬트리</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49994">방문 길이</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49995">쿠키 구입</a>
+    </td>
+    <td rowspan="4"><code>Summer/Winter Coding(~2018)</code></td>
+  </tr>
+  <tr align="center">
+    <td>2023.02.14</td>
+  </tr>
+  <tr align="center">
+    <td>2023.02.14</td>
+  </tr>
+  <tr align="center">
+    <td>2023.02.14</td>
+  </tr>
+  <tr align="center">
+    <td>2023.02.14</td>
+    <td>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/62048">멀쩡한 사각형</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/62050">지형 이동</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/62284">우유와 요거트가 담긴 장바구니</a>
+    </td>
+    <td><code>Summer/Winter Coding(2019)</code></td>
   </tr>
 </tbody>
 </table>
