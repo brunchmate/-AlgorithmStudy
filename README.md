@@ -229,6 +229,19 @@
     </td>
     <td><code>Summer/Winter Coding(2019)</code></td>
   </tr>
+  <tr align="center">
+    <td>2023.02.27</td>
+    <td>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17676">추석 트래픽</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17677">뉴스 클러스터링</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17678">셔틀버스</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17679">프렌즈4블록</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17680">캐시</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17681">비밀지도</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17682">다트 게임</a>
+    </td>
+    <td><code>2018 KAKAO BLIND RECRUITMENT [1차]</code></td>
+  </tr>
 </tbody>
 </table>
 
