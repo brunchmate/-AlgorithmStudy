@@ -9,9 +9,6 @@ def solution(msg):
     for m in msg:
         if tmp + m in index.keys():
             tmp += m
-
-            4520
-
             continue
         answer.append(index[tmp])
         index[tmp + m] = cur
