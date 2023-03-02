@@ -242,6 +242,30 @@
     </td>
     <td><code>2018 KAKAO BLIND RECRUITMENT [1차]</code></td>
   </tr>
+  <tr align="center">
+    <td>2023.03.01</td>
+    <td>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17683">방금그곡</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17684">압축</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17685">자동완성</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17686">파일명 정렬</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17687">n진수 게임</a>
+    </td>
+    <td><code>2018 KAKAO BLIND RECRUITMENT [3차]</code></td>
+  </tr>
+  <tr align="center">
+    <td>2023.03.03</td>
+    <td>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42888">오픈채팅방</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42889">실패율</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42890">후보키</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42891">무지의 먹방 라이브</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42892">길 찾기 게임</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42893">매칭 점수</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42894">블록 게임</a>
+    </td>
+    <td><code>2019 KAKAO BLIND RECRUITMENT</code></td>
+  </tr>
 </tbody>
 </table>
 
