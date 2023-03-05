@@ -219,5 +219,42 @@
     </td>
     <td><code>Summer/Winter Coding(2019)</code></td>
   </tr>
+  <tr align="center">
+    <td>2023.02.27</td>
+    <td>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/추석 트래픽.py">추석 트래픽</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/뉴스 클러스터링.py">뉴스 클러스터링</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/셔틀버스.py">셔틀버스</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/프렌즈4블록.py">프렌즈4블록</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/캐시.py">캐시</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/비밀지도.py">비밀지도</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/다트 게임.py">다트 게임</a>
+    </td>
+    <td><code>2018 KAKAO BLIND RECRUITMENT [1차]</code></td>
+  </tr>
+  <tr align="center">
+    <td>2023.03.01</td>
+    <td>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/방금그곡.py">방금그곡</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/압축.py">압축</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/자동완성.py">자동완성</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/파일명 정렬.py">파일명 정렬</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/n진수 게임.py">n진수 게임</a>
+    </td>
+    <td><code>2018 KAKAO BLIND RECRUITMENT [3차]</code></td>
+  </tr>
+  <tr align="center">
+    <td>2023.03.03</td>
+    <td>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/오픈채팅방.py">오픈채팅방</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/실패율.py">실패율</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/후보키.py">후보키</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/무지의 먹방 라이브.py">무지의 먹방 라이브</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/길 찾기 게임.py">길 찾기 게임</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/매칭 점수.py">매칭 점수</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/블록 게임.py">블록 게임</a>
+    </td>
+    <td><code>2019 KAKAO BLIND RECRUITMENT</code></td>
+  </tr>
 </tbody>
 </table>
