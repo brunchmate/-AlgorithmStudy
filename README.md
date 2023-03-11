@@ -266,6 +266,33 @@
     </td>
     <td><code>2019 KAKAO BLIND RECRUITMENT</code></td>
   </tr>
+  <tr align="center">
+    <td>2023.03.06</td>
+    <td rowspan="5">
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60057">문자열 압축</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60058">괄호 변환</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60059">자물쇠와 열쇠</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60060">가사 검색</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60061">기둥과 보 설치</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60062">외벽 점검</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60063">블록 이동하기</a>
+    </td>
+    <td rowspan="5"><code>2020 KAKAO BLIND RECRUITMENT</code></td>
+  </tr>
+  </tr>
+  <tr align="center">
+    <td>2023.03.07</td>
+  </tr>
+  <tr align="center">
+    <td>2023.03.08</td>
+  </tr>
+  <tr align="center">
+    <td>2023.03.09</td>
+  </tr>
+  </tr>
+  <tr align="center">
+    <td>2023.03.10</td>
+  </tr>
 </tbody>
 </table>
 
