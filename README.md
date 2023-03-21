@@ -293,6 +293,33 @@
   <tr align="center">
     <td>2023.03.10</td>
   </tr>
+  <tr align="center">
+    <td>2023.03.13</td>
+    <td rowspan="5">
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72410">신규 아이디 추천</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72411">메뉴 리뉴얼</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72412">순위 검색</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72413">합승 택시 요금</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72414">광고 삽입</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72415">카드 짝 맞추기</a><br>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72416">매출 하락 최소화</a>
+    </td>
+    <td rowspan="5"><code>2021 KAKAO BLIND RECRUITMENT</code></td>
+  </tr>
+  </tr>
+  <tr align="center">
+    <td>2023.03.14</td>
+  </tr>
+  <tr align="center">
+    <td>2023.03.15</td>
+  </tr>
+  <tr align="center">
+    <td>2023.03.16</td>
+  </tr>
+  </tr>
+  <tr align="center">
+    <td>2023.03.17</td>
+  </tr>
 </tbody>
 </table>
 
