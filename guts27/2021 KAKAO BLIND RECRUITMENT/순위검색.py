@@ -1,38 +1,34 @@
 from bisect import bisect_left
-from itertools import combinations
-
-def make_all_cases(temp):
-    cases = []
-    for k in range(5):
-        for li in combinations([0, 1, 2, 3], k):
-            case = ''
-            for idx in range(4):
-                if idx not in li:
-                    case += temp[idx]
-                else:
-                    case += '-'
-            cases.append(case)
-    return cases
-
 def solution(info, query):
     answer = []
-    all_people = {}
+    arr = []
+    diction = {}
     for i in info:
-        seperate_info = i.split()
-        cases = make_all_cases(i.split())
-        for case in cases:
-            if case not in all_people.keys(): all_people[case] = [int(seperate_info[4])]
-            else: all_people[case].append(int(seperate_info[4]))
+        a,b,c,d,e = i.split()
+        arr.append([a,'-'])
+        arr.append([b,'-'])
+        arr.append([c,'-'])
+        arr.append([d,'-'])
+        e = int(e)
 
-    for key in all_people.keys():
-        all_people[key].sort()
-
+        cases = [[f,g,h,i] for f in [a,'-'] for g in [b,'-'] for h in [c,'-'] for i in [d,'-']] 
+        for cas in cases:
+            string = ''.join(cas)
+            if string in diction: 
+                diction[string].append(e)
+            else:
+                diction[string] = [e]
+                
+    for key in diction.keys():
+        diction[key].sort()
+        
     for q in query:
-        seperate_q = q.split()
-        target = seperate_q[0] + seperate_q[2] + seperate_q[4] + seperate_q[6]
-        if target in all_people.keys():
-            answer.append(len(all_people[target]) - bisect_left(all_people[target], int(seperate_q[7]), lo=0, hi=len(all_people[target])))
+        q = q.replace(" and "," ")
+        q = q.split(" ")
+        string = q[0] + q[1] + q[2] + q[3]
+        
+        if string in diction:
+            answer.append(len(diction[string]) - bisect_left(diction[string],int(q[4])))
         else:
             answer.append(0)
-
     return answer
