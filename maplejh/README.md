@@ -257,7 +257,7 @@
     <td><code>2019 KAKAO BLIND RECRUITMENT</code></td>
   </tr>
   <tr align="center">
-    <td>2023.03.03</td>
+    <td>2023.03.06</td>
     <td rowspan="5">
       <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/문자열 압축.py">문자열 압축</a><br>
       <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/괄호 변환.py">괄호 변환</a><br>
@@ -280,6 +280,46 @@
   </tr>
   <tr align="center">
     <td>2023.03.10</td>
+  </tr>
+  <tr align="center">
+    <td>2023.03.13</td>
+    <td rowspan="5">
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/신규 아이디 추천.py">신규 아이디 추천</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/메뉴 리뉴얼.py">메뉴 리뉴얼</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/순위 검색.py">순위 검색</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/합승 택시 요금.py">합승 택시 요금</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/광고 삽입.py">광고 삽입</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/카드 짝 맞추기.py">카드 짝 맞추기</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/매출 하락 최소화.py"><del>매출 하락 최소화</del></a>
+    </td>
+    <td rowspan="5"><code>2021 KAKAO BLIND RECRUITMENT</code></td>
+  </tr>
+  <tr align="center">
+    <td>2023.03.14</td>
+  </tr>
+  <tr align="center">
+    <td>2023.03.15</td>
+  </tr>
+  <tr align="center">
+    <td>2023.03.16</td>
+  </tr>
+  <tr align="center">
+    <td>2023.03.17</td>
+  </tr>
+  <tr align="center">
+    <td>2023.03.20</td>
+    <td rowspan="3">
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/로또의 최고 순위와 최저 순위.py">로또의 최고 순위와 최저 순위</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/행렬 테두리 회전하기.py">행렬 테두리 회전하기</a><br>
+      <a href="https://github.com/brunchmate/AlgorithmStudy/blob/main/maplejh/Programmers/다단계 칫솔 판매.py">다단계 칫솔 판매</a>
+    </td>
+    <td rowspan="3"><code>2021 Dev-Matching: 웹 백엔드 개발자(상반기)</code></td>
+  </tr>
+  <tr align="center">
+    <td>2023.03.21</td>
+  </tr>
+  <tr align="center">
+    <td>2023.03.22</td>
   </tr>
 </tbody>
 </table>
