@@ -1,0 +1,32 @@
+import math
+def solution(fees, records):
+    answer = []
+    dic = {}
+    
+    for reco in records:
+        reco = reco.split(' ')
+        time = reco[0].split(':')
+        time = int(time[0])*60+int(time[1])
+        if reco[1] in dic:
+            dic[reco[1]].append(time)
+        else:
+            dic[reco[1]] = [time]
+    
+    cost = []
+    for d in dic.keys():
+        all_time = 0
+        arr = dic[d]
+        if len(arr)%2 != 0:
+            arr.append(23*60+59)
+            
+        for i in range(0,len(arr),2):
+            all_time += arr[i+1] - arr[i]
+            
+        if all_time < fees[0] :
+            cost.append([d,fees[1]])
+        else:
+            cost.append([d,fees[1] +(math.ceil((all_time-fees[0]) / fees[2]) * fees[3])])
+    cost.sort()
+    for c in cost:
+        answer.append(c[1])
+    return answer
