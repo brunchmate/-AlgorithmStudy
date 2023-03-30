@@ -35,3 +35,4 @@ def solution(board, skill):
             if arr[i][j] + board[i][j] > 0:
                 answer += 1
     return answer
+
