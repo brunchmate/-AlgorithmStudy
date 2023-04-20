@@ -1,37 +1,31 @@
-from itertools import permutations
+def dfs(visited,route,tickets,result):
+    if result == length:
+        answer.append(route[:])
+        return 
+    for i in range(len(tickets)):
+        if visited[i] == True or route[-1] != tickets[i][0]:
+            continue
+        visited[i] = True
+        route.append(tickets[i][1])
+        dfs(visited,route,tickets,result+1)
+        route.pop(-1)
+        visited[i] = False
+        
     
 def solution(tickets):
-    global answer
+    global answer,length
+    length = len(tickets)
     answer = []
-
-    v = [i for i in range(len(tickets))]
-    _f = []
-    for i in range(len(tickets)):
-        if tickets[i][0] == "ICN":
-            _f.append(i)
+    visited = [False for i in range(len(tickets))]
     
-    for per in permutations(v,len(v)):
-        route = []
-        flag = 0
-        nex = ""
-        if per[0] not in _f:
-            continue
-        for p in per:
-            if len(nex) == 0:
-                route.append(tickets[p][0])
-                route.append(tickets[p][1])
-                nex = tickets[p][1]
-                flag = 1
-            else:
-                if nex == tickets[p][0]:
-                    route.append(tickets[p][1])
-                    nex = tickets[p][1]
-                else:
-                    flag = 0
-                    break
-                    
-        if flag == 1:
-            answer.append(route)
-
+    
+    for i in range(len(tickets)):
+        if tickets[i][0] ==  "ICN":
+            route = []
+            visited[i] = True
+            route.append(tickets[i][0])
+            route.append(tickets[i][1])
+            dfs(visited,route,tickets,1)
+            visited[i] = False
     answer.sort()
     return answer[0]
