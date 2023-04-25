@@ -58,3 +58,19 @@ def solution(k, room_number):
 
 
 # linked-list로도 가능
+from collections import defaultdict
+
+
+def solution(k, room_number):
+    answer = []
+    lnk = defaultdict(int)
+    for rn in room_number:
+        tmp = []  # rn보다 높은 번호중에 이미 팔린방
+        while lnk[rn]:
+            tmp.append(rn)
+            rn = lnk[rn]
+        lnk[rn] = rn + 1
+        for t in tmp:
+            lnk[t] = rn + 1
+        answer.append(rn)
+    return answer
